@@ -1,2 +1,2 @@
-# activition_fun
+# activation_fun
 Just working on activation modelling
